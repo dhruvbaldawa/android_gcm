@@ -7,7 +7,7 @@ import android.content.Intent;
 public final class CommonUtilities {
 
     // Google project id
-    static final String SENDER_ID = "841326992892";
+    static final String SENDER_ID = "";
 
     /**
      * Tag used on log messages.
